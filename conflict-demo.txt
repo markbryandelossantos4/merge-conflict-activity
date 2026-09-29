@@ -1,1 +1,1 @@
-Change from branch B
+Resolved: changes from both branches
